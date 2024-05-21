@@ -1,2 +1,2 @@
 # Web-Calculator
-Assaignment
+This is calculator Assaignment by HTML, CSS and Javascript
